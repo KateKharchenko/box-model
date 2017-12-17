@@ -53,7 +53,7 @@ body {
 }
 
 .circle .sector:nth-child(1) {
-	background: #ad4960;
+	background: #3082aa;
 	/* border-top-left-radius: 100%;  */
 }
 
@@ -63,12 +63,12 @@ body {
 }
 
 .circle .sector:nth-child(3) {
-	background: #3c8e10;
+	background: #9acb9b;
 	/* border-bottom-left-radius: 100%;  */
 }
 
 .circle .sector:nth-child(4) {
-	background: #157bd2;
+	background: #399aca;
 	/* border-bottom-right-radius: 100%; */
 }
 
@@ -86,7 +86,7 @@ body {
 }
 
 .flower .petal:nth-child(1) {
-	background: #ad4960;
+	background: #689999;
 	border-radius: 60px 90px 0 90px; 
 }
 
@@ -101,7 +101,7 @@ body {
 }
 
 .flower .petal:nth-child(4) {
-	background: #157bd2;
+	background: #ca6899;
 	border-radius: 0 90px 60px 90px;
 }
 
