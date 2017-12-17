@@ -53,35 +53,20 @@ body {
 }
 
 .circle .sector:nth-child(1) {
-<<<<<<< HEAD
 	background: #3082aa;
-=======
-	background: #FFECAA;
->>>>>>> e60145308bc2f059ebed64d41a2dbefd7cd37fb4
-	/* border-top-left-radius: 100%;  */
 }
 
 .circle .sector:nth-child(2) {
-	background: #6E4D8F;
+	background: #cef;
 	/* border-top-right-radius: 100%; */
 }
 
 .circle .sector:nth-child(3) {
-<<<<<<< HEAD
 	background: #9acb9b;
-=======
-	background: #4B698B;
->>>>>>> e60145308bc2f059ebed64d41a2dbefd7cd37fb4
-	/* border-bottom-left-radius: 100%;  */
 }
 
 .circle .sector:nth-child(4) {
-<<<<<<< HEAD
 	background: #399aca;
-=======
-	background: #C96474;
->>>>>>> e60145308bc2f059ebed64d41a2dbefd7cd37fb4
-	/* border-bottom-right-radius: 100%; */
 }
 
 .flower {
@@ -98,33 +83,22 @@ body {
 }
 
 .flower .petal:nth-child(1) {
-<<<<<<< HEAD
 	background: #689999;
 	border-radius: 60px 90px 0 90px; 
-=======
-	background: #C96474;
-	border-radius: 50px 110px 0 110px; 
->>>>>>> e60145308bc2f059ebed64d41a2dbefd7cd37fb4
-}
 
 .flower .petal:nth-child(2) {
-	background: #44897A;
-	border-radius: 110px 50px 110px 0;
+	background: #541;
+	border-radius: 90px 60px 90px 0;
 }
 
 .flower .petal:nth-child(3) {
-	background: #F1A1AE;
-	border-radius: 110px 0 110px 50px;
+	background: #aaa;
+	border-radius: 90px 0 90px 60px;
 }
 
 .flower .petal:nth-child(4) {
-<<<<<<< HEAD
 	background: #ca6899;
 	border-radius: 0 90px 60px 90px;
-=======
-	background: #D4966A;
-	border-radius: 0 110px 50px 110px;
->>>>>>> e60145308bc2f059ebed64d41a2dbefd7cd37fb4
 }
 
 .links {
