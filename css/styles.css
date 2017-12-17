@@ -54,21 +54,28 @@ body {
 
 .circle .sector:nth-child(1) {
 	background: #99ffff;
+
+
 	/* border-top-left-radius: 100%;  */
 }
 
 .circle .sector:nth-child(2) {
+
 	background: #ff00cc;
+
 	/* border-top-right-radius: 100%; */
 }
 
 .circle .sector:nth-child(3) {
 	background: #663399;
+
 	/* border-bottom-left-radius: 100%;  */
 }
 
 .circle .sector:nth-child(4) {
+
 	background: #ff3366;
+
 	/* border-bottom-right-radius: 100%; */
 }
 
@@ -86,6 +93,7 @@ body {
 }
 
 .flower .petal:nth-child(1) {
+
 	background: #00ff00;
 	border-radius: 60px 90px 0 90px; 
 }
@@ -103,6 +111,23 @@ body {
 .flower .petal:nth-child(4) {
 	background: #ff00cc;
 	border-radius: 0 90px 60px 90px;
+ 
+}
+
+.flower .petal:nth-child(2) {
+	background: #44897A;
+	border-radius: 110px 50px 110px 0;
+}
+
+.flower .petal:nth-child(3) {
+	background: #F1A1AE;
+	border-radius: 110px 0 110px 50px;
+}
+
+.flower .petal:nth-child(4) {
+	background: #D4966A;
+	border-radius: 0 110px 50px 110px;
+
 }
 
 .links {
