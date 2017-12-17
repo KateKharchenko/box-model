@@ -54,17 +54,16 @@ body {
 
 .circle .sector:nth-child(1) {
 	background: #ad7560;
-	/* border-top-left-radius: 100%;  */
 }
 
 .circle .sector:nth-child(2) {
 	background: #e4401f;
-	/* border-top-right-radius: 100%; */
+
 }
 
 .circle .sector:nth-child(3) {
 	background: #3c8e45;
-	/* border-bottom-left-radius: 100%;  */
+
 }
 
 .circle .sector:nth-child(4) {
