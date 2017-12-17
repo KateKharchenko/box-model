@@ -53,6 +53,7 @@ body {
 }
 
 .circle .sector:nth-child(1) {
+
 	background: #6600ff;
 }
 
@@ -84,6 +85,7 @@ body {
 }
 
 .flower .petal:nth-child(1) {
+
 	background: #60AB71;
 	border-radius: 60px 90px 0 90px; 
 }
@@ -105,16 +107,17 @@ body {
 .flower .petal:nth-child(2) {
 	background: #44897A;
 	border-radius: 110px 50px 110px 0;
+
 }
 
 .flower .petal:nth-child(3) {
-	background: #F1A1AE;
-	border-radius: 110px 0 110px 50px;
+	background: #aaa;
+	border-radius: 90px 0 90px 60px;
 }
 
 .flower .petal:nth-child(4) {
-	background: #D4966A;
-	border-radius: 0 110px 50px 110px;
+	background: #ca6899;
+	border-radius: 0 90px 60px 90px;
 }
 
 .links {
