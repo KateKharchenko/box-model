@@ -27,7 +27,7 @@ body {
 
 .breadcrumps li a {
 	text-decoration: none;
-	color: #7a99f3;
+	color: #6a85f6;
 	transition: color .25s ease;
 }
 
@@ -62,6 +62,7 @@ body {
 	/* border-top-right-radius: 100%; */
 }
 
+
 .circle .sector:nth-child(3) {
 	background: #1a75ff;
 	/* border-bottom-left-radius: 100%;  */
@@ -70,7 +71,10 @@ body {
 .circle .sector:nth-child(4) {
 	background: #003380;
 	/* border-bottom-right-radius: 100%; */
+
 }
+
+
 
 .flower {
 	width: 300px;
@@ -105,6 +109,8 @@ body {
 	border-radius: 0 90px 60px 90px;
 }
 
+
+
 .links {
 	list-style-type: none;
 }
@@ -115,7 +121,7 @@ body {
 
 .links li a {
 	text-decoration: none;
-	color: #555;
+	color: #000f;
 	padding-left: 30px;
 	opacity: .7;
 	transition: opacity .25s ease;
