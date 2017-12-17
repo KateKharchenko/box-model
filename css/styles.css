@@ -27,7 +27,7 @@ body {
 
 .breadcrumps li a {
 	text-decoration: none;
-	color: #7a99f3;
+	color: #6a85f6;
 	transition: color .25s ease;
 }
 
@@ -53,17 +53,18 @@ body {
 }
 
 .circle .sector:nth-child(1) {
-
-	background: #ad7560;
+	background: #ad1020;
+	/* border-top-left-radius: 100%;  */
 }
 
 .circle .sector:nth-child(2) {
-	background: #e4401f;
-
+	background: #e9c0ff;
+	/* border-top-right-radius: 100%; */
 }
 
 .circle .sector:nth-child(3) {
-	background: #3c8e45;
+	background: #9c1e00;
+	/* border-bottom-left-radius: 100%;  */
 
 }
 
@@ -115,7 +116,7 @@ body {
 
 .links li a {
 	text-decoration: none;
-	color: #555;
+	color: #000f;
 	padding-left: 30px;
 	opacity: .7;
 	transition: opacity .25s ease;
